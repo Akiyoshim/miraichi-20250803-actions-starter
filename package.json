@@ -1,0 +1,20 @@
+{
+  "name": "github-actions-info-collector",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "dry-run": "node src/index.js --dry-run",
+    "start": "node src/index.js",
+    "verify": "npm test && npm run dry-run"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "resend": "^4.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}

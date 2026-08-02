@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Publickeyサンプル</title>
+  <link href="https://example.com/"/>
+  <id>https://example.com/</id>
+  <updated>2026-08-03T09:00:00+09:00</updated>
+  <entry>
+    <title>エンタープライズ向けKubernetes新機能を解説</title>
+    <link href="https://example.com/atom/1"/>
+    <id>https://example.com/atom/1</id>
+    <updated>2026-08-03T09:00:00+09:00</updated>
+    <summary>Kubernetesの新機能について解説する記事です。</summary>
+  </entry>
+  <entry>
+    <title>サーバーレスアーキテクチャの設計指針</title>
+    <link href="https://example.com/atom/2"/>
+    <id>https://example.com/atom/2</id>
+    <updated>2026-08-02T09:00:00+09:00</updated>
+    <summary>サーバーレス設計における注意点をまとめました。</summary>
+  </entry>
+  <entry>
+    <title>オープンソースの開発動向まとめ</title>
+    <link href="https://example.com/atom/3"/>
+    <id>https://example.com/atom/3</id>
+    <updated>2026-08-01T09:00:00+09:00</updated>
+    <summary>直近のオープンソースプロジェクトの動向を紹介します。</summary>
+  </entry>
+</feed>

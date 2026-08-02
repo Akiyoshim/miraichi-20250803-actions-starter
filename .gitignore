@@ -1,0 +1,18 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+node_modules/
+dist/
+build/
+.vercel/
+__pycache__/
+*.pyc
+_archive/
+
+# スライド作業中の一時レンダリング
+slides/pdf/*.png
+
+# dry-runで生成されるメールプレビュー（ローカル確認用・コミット不要）
+data/email-preview.html

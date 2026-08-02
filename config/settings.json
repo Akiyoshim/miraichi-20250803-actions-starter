@@ -1,0 +1,9 @@
+{
+  "maxItems": 5,
+  "language": "ja",
+  "sendEmail": true,
+  "includeRss": true,
+  "includeYouTube": false,
+  "includeNote": false,
+  "includeNews": false
+}

@@ -1,0 +1,62 @@
+name: daily-digest
+on:
+  workflow_dispatch:        # Actionsタブから手動実行できる
+  schedule:
+    # cronはUTC。日本時間から9時間引く。毎朝 JST 7:00 = UTC 22:00（前日）
+    # 実行時刻を変えるのはこの1行だけ
+    - cron: '0 22 * * *'
+permissions:
+  contents: write           # processed-items.json のコミットバックに必要
+
+concurrency:
+  group: daily-digest      # 定期実行と手動実行が重なっても同時に走らせない（二重送信の防止）
+  cancel-in-progress: false
+
+jobs:
+  run-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.jsをセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: 依存関係をインストール
+        run: npm ci
+
+      - name: Secretsの設定を確認
+        run: |
+          missing=""
+          if [ -z "$GEMINI_API_KEY" ]; then missing="$missing GEMINI_API_KEY"; fi
+          if [ -z "$RESEND_API_KEY" ]; then missing="$missing RESEND_API_KEY"; fi
+          if [ -z "$EMAIL_FROM" ]; then missing="$missing EMAIL_FROM"; fi
+          if [ -z "$EMAIL_TO" ]; then missing="$missing EMAIL_TO"; fi
+          if [ -n "$missing" ]; then
+            echo "以下のSecretsが設定されていません（値は表示しません）:$missing"
+            exit 1
+          fi
+          echo "必要なSecretsはすべて設定されています"
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+
+      - name: 情報収集・要約・メール送信を実行
+        run: node src/index.js
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+
+      - name: 処理済み記事の記録をコミットバック
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet -- data/processed-items.json || (git add data/processed-items.json && git commit -m "更新: 処理済み記事の記録" && git push)
