@@ -6,6 +6,17 @@ import { truncate } from "../utils/format.js";
 
 const DEFAULT_MODEL = "gemini-3.6-flash";
 
+// 要約と要約の間に空ける待ち時間（ミリ秒）。
+// Gemini APIの無料枠には「1分あたりのリクエスト数（RPM）」の上限があり、
+// 待たずに連続実行すると上限を超えた分が HTTP 429 で失敗する。
+// 13秒空けると 60 ÷ 13 ≒ 4.6回/分 となり、無料枠の目安（5回/分）に収まる。
+// 有料枠を使う場合や上限が変わった場合は、環境変数 AI_INTERVAL_MS で調整できる。
+const DEFAULT_INTERVAL_MS = 13000;
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 // プロンプトのプレースホルダ（{{title}} など）を記事情報で置換する
 function fillTemplate(template, item) {
   return template
@@ -42,10 +53,21 @@ export async function summarizeItems(items, options = {}) {
   const model = env.AI_MODEL || DEFAULT_MODEL;
   const template = fs.readFileSync(promptPath, "utf-8");
 
+  // 待ち時間を決める。数値として解釈できない値が入っていたら既定値を使う。
+  const parsedInterval = Number(env.AI_INTERVAL_MS);
+  const intervalMs =
+    Number.isFinite(parsedInterval) && parsedInterval >= 0 ? parsedInterval : DEFAULT_INTERVAL_MS;
+
   const results = [];
   let successCount = 0;
 
-  for (const item of items) {
+  for (const [index, item] of items.entries()) {
+    // 2件目以降は、前の要約からintervalMsだけ待ってから呼ぶ（1件目は待たない）
+    if (index > 0 && intervalMs > 0) {
+      log?.info(`APIの利用上限を避けるため${intervalMs / 1000}秒待ちます（${index + 1}/${items.length}件目）`);
+      await sleep(intervalMs);
+    }
+
     try {
       const prompt = fillTemplate(template, item);
       const response = await ai.models.generateContent({ model, contents: prompt });
