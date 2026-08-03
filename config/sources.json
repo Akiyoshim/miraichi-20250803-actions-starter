@@ -1,8 +1,29 @@
 {
   "rss": [
-    {"name": "ITmedia AI+", "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
-    {"name": "Publickey", "url": "https://www.publickey1.jp/atom.xml"},
-    {"name": "GIGAZINE", "url": "https://gigazine.net/news/rss_2.0/"}
+    {"name": "ハヤシシュンスケ", "url": "https://note.com/ambitiousai/rss"},
+    {"name": "堀江貴文", "url": "https://note.com/takapon/rss"},
+    {"name": "そう｜n8nでAIエージェント構築", "url": "https://note.com/soh_ainsight/rss"},
+    {"name": "まさお@未経験からプロまでAI活用", "url": "https://note.com/masa_wunder/rss"},
+    {"name": "ミヤマ", "url": "https://note.com/mmmiyama/rss"},
+    {"name": "KAWAI", "url": "https://note.com/kawaidesign/rss"},
+    {"name": "まじん", "url": "https://note.com/majin_108/rss"},
+    {"name": "コンマリ｜AIエディター×デザイナー", "url": "https://note.com/konmari/rss"},
+    {"name": "すぅ | AI駆動PM", "url": "https://note.com/suh_sunaneko/rss"},
+    {"name": "こじか🦌@教育×AI", "url": "https://note.com/n_t7627/rss"},
+    {"name": "あきらパパ", "url": "https://note.com/akira_papa_ai/rss"},
+    {"name": "hirokaji", "url": "https://note.com/tasty_dunlin998/rss"},
+    {"name": "Taiyo", "url": "https://note.com/meru2002/rss"},
+    {"name": "たてばやし淳.エクセル兄さん", "url": "https://note.com/on_consul/rss"},
+    {"name": "Maki@Sunwood.ai.labs", "url": "https://note.com/sunwood_ai_labs/rss"},
+    {"name": "けんすう", "url": "https://kensuu.com/rss"},
+    {"name": "kimura | GASクリエイター", "url": "https://note.com/cozy_auklet6005/rss"},
+    {"name": "しまゆず", "url": "https://note.com/imp0820/rss"},
+    {"name": "松濤Vimmer", "url": "https://note.com/shotovim/rss"},
+    {"name": "hkob", "url": "https://hkob.hatenablog.com/rss"},
+    {"name": "Manus公式", "url": "https://note.com/manusai_jp/rss"},
+    {"name": "谷村洋平（医療法人灯心会タニムラ医院理事長）", "url": "https://note.com/kyotoseishinkai/rss"},
+    {"name": "ジェネトピ｜AIラジオ", "url": "https://note.com/genai_topic/rss"},
+    {"name": "みか|Gensparkを使って本気で稼ぎたい", "url": "https://note.com/mika_genspark/rss"}
   ],
   "youtube": [],
   "note": []

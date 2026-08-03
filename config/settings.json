@@ -1,5 +1,5 @@
 {
-  "maxItems": 5,
+  "maxItems": 15,
   "language": "ja",
   "sendEmail": true,
   "includeRss": true,
