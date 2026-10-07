@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "url": "https://note.com/kawaidesign/n/n4829d035f9e0",
+      "title": "新登場「Nano Banana 2.1」で何が変わる？公式事例でわかる4つの進化と仕事への活かし方",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/n973a20b73c69",
+      "title": "明日の一勝が繋げる世界への切符",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n9d980fb5cc69",
+      "title": "Anthropicはなぜ、人材育成に1億ドルを投じるのか。Claude Frontier Academyから考えるAI活用の次",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n999a18e62720",
+      "title": "Production OSを、止めて直して戻せる形へ",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/kyotoseishinkai/n/n9d0727febed4",
+      "title": "【記事23】精神科医は、あなたがずる休みをするための診断書を書く係ではありません。——ずる休み期間中の傷病手当金目当ての診断書を刷る、印刷機でもありません",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n3b5187904e5b",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/ne71c20dbdf85",
+      "title": "#98 ラインを上げるとは",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/n62736e35db3f",
+      "title": "収穫したキノコを料理して感じた、リソースから最適解を出す考え方",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n1e2ec82c18f4",
+      "title": "AIを使いたいのに、始める余裕がない",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/on_consul/n/n9b6eef3aa930",
+      "title": "🎙️【超リアル日本語AIボイス】自分の声で広告・講義動画・ショートも作れる「Eleven v4」！Higgsfieldで動画作成を一気に自動化する方法",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/sunwood_ai_labs/n/n42a458ed6cf3",
+      "title": "T3 Codeで、Opusに3つのスレッドを作って並列に頼んでもらった",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
+      "url": "https://note.com/keivivo/n/n34af077554f8",
+      "title": "「勘違い」が、本当に能力を変えた——豊嶋邑作が柏レイソルで手にしたものと、失いかけたもの【中編】",
+      "processedAt": "2026-10-07T01:27:32.445Z"
+    },
+    {
       "url": "https://note.com/masa_wunder/n/n327c70b6b450",
       "title": "OpenAI「dots」とGrok Bot、Hermesを設計思想で比べてみた｜最初の1体はdotsで良さそう",
       "processedAt": "2026-10-06T02:14:25.473Z"
@@ -2439,66 +2499,6 @@
       "url": "https://note.com/mmmiyama/n/n2c9a78e7b9ec",
       "title": "追加課金なし。Codexだけで「AI秘書のいるシンプルオフィス」を10分で作る方法【プロンプト付き】",
       "processedAt": "2026-08-03T13:19:19.298Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nbe8b5d818deb",
-      "title": "Claude Codeで「ひとりAIデザイン部」を作る｜Skills・AI社員・フォルダ設計",
-      "processedAt": "2026-08-03T13:19:19.298Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n0cbbeff9b796",
-      "title": "Graphは、Nodeではなく境界で壊れる",
-      "processedAt": "2026-08-03T13:19:19.298Z"
-    },
-    {
-      "url": "https://note.com/meru2002/n/n0c01e359523a",
-      "title": "AIの「推論の強さ」、スライダーで選ばせていませんか？",
-      "processedAt": "2026-08-03T13:19:19.298Z"
-    },
-    {
-      "url": "https://note.com/on_consul/n/n9161c797abde",
-      "title": "ChatGPTとCopilotでも「Skill」が解禁！会社のPowerPointを毎回同じデザインで作らせる方法",
-      "processedAt": "2026-08-03T13:19:19.298Z"
-    },
-    {
-      "url": "https://note.com/cozy_auklet6005/n/n704c3189bb3f",
-      "title": "Gemini Spark × GAS｜GASをMCPサーバーとして登録して使ってみた",
-      "processedAt": "2026-08-03T13:19:19.298Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/08/02/050000",
-      "title": " AI meeting note 終了時のカスタムエージェントトリガ : hkob の雑記録 (570)",
-      "processedAt": "2026-08-03T13:19:19.298Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n9fd990b849d5",
-      "title": "専門家と組むことで未踏の世界を広げろ",
-      "processedAt": "2026-08-03T13:09:19.203Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n1ac1af7faa3a",
-      "title": "《863》堀江貴文のブログでは言えない話【AIモデル競争で有利に立つ企業の条件とは？】",
-      "processedAt": "2026-08-03T13:09:19.203Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n951c90d00ddf",
-      "title": "ChatGPTで広告画像の初稿を作る｜6つの型を同時に比較するプロンプト",
-      "processedAt": "2026-08-03T13:09:19.203Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n0b12331146ef",
-      "title": "【妄想】もし、渋沢栄一がClaude Codeでソロプレナーになったら？1人会社を「信用」と「仕組み」で増やす全手順",
-      "processedAt": "2026-08-03T13:09:19.203Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/ne74be9276272",
-      "title": "シンギュラリティは、超知能が完成した日ではない",
-      "processedAt": "2026-08-03T13:09:19.203Z"
-    },
-    {
-      "url": "https://kensuu.com/n/nb2e04e560a66",
-      "title": "「むき出しの資本主義」とイケダハヤト",
-      "processedAt": "2026-08-03T13:09:19.203Z"
     }
   ]
 }
