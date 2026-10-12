@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "url": "https://note.com/takapon/n/n70a71bb5e894",
+      "title": "《873》堀江貴文のブログでは言えない話【情報漏洩で企業にできる最大の防御策】",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/n248c77b5bc16",
+      "title": "全力でやるからこそ、全部を全力ではやらない",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n03742bb75c6d",
+      "title": "【実装丸ごと共有】AI の作業報告を「読む」から「見る」へ！ 僕がいま愛用している、動画報告 Skill を共有します",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n82901bd9e619",
+      "title": "Grokの更新、これで追いつく。Bot・Build・APIまで40テーマで整理",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n328e2643c26c",
+      "title": "Geminiの更新、これで追いつく。公式情報を43テーマで整理",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nf297d74925d1",
+      "title": "Claude・Claude Codeの更新を追い切れない人へ。主要40項目を公式情報で解説",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n4009a92a0a1c",
+      "title": "AI時代のADR――設計の「なぜ」を残す技術",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/cozy_auklet6005/n/n07a3f364b100",
+      "title": "Googleドライブのリンクを、人に配る形に一発変換する拡張",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/10/12/050000",
+      "title": " ミーティングノートから To Do を作成する worker の実装(5) : hkob の雑記録 (643)",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/keivivo/n/n8fc39afa891e",
+      "title": "「ボールは奪われない前提でサッカーができる」——豊嶋邑作が辿り着いた「後ろ理論」という答え【後編】",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n3c284c4f430a",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/sunwood_ai_labs/n/n290a78a2bd7a",
+      "title": "Filestash を Windows の Podman で動かし、SFTPサーバーのファイルをブラウザから操作できるか試した",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n29f3b53666c1",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-10-12T01:13:24.062Z"
+    },
+    {
       "url": "https://note.com/masa_wunder/n/n5fcd5d072ce8",
       "title": "Claude Maxに毎月のAPIクレジットが登場したので実際に使ってみた！クラウドで毎朝動く自動化が作れる",
       "processedAt": "2026-10-11T00:51:40.596Z"
@@ -2434,71 +2499,6 @@
       "url": "https://note.com/masa_wunder/n/n3a339abe1751",
       "title": "【完全解説】Google「Gemini 3.8 Flash」登場！動画をまるごと渡して中身を語らせる",
       "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n71b402d8f2d9",
-      "title": "【脳科学】「ありがとう」は、脳がお金と同じ回路で処理される〜24,804人のメタ分析でわかった、効く感謝と効かない感謝〜",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nff0e423990ce",
-      "title": "【完全網羅】検索から集客したい人のためのSEOの教科書〜初心者でも迷わない基礎と実践ステップ〜",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/ne65eb14ba8f7",
-      "title": "CodexはAIハーネスを不要にしない｜業務UIへエージェントループを埋め込む設計",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/on_consul/n/n0d5fa614ca94",
-      "title": "⚡【Claude最強「Fable 5.1」登場】プログラミングでなく、文系タスクで真価を発揮する、文章執筆やレポート作成の「司令塔」としての使い方",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/cozy_auklet6005/n/nc20074bf7c52",
-      "title": "AIに注意書きを増やすのをやめて、道具を1個持たせた",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/04/050000",
-      "title": " 7/27 以降のNotion ChangeLog の解説  : hkob の雑記録 (605)",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n97e91f2f8115",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n4f13739c185e",
-      "title": "AIエージェントの価格は、成果と原価を同じEvidenceへ束縛する",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n10d59be6bf0f",
-      "title": "【アプリ設計】使いやすさは、画面を作る前に決まる〜ノンデザイナーのためのIAとデザインシステム〜",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n216707e59e16",
-      "title": "GPT-5.6はモデル選択ガイドではない｜Agentの計算資源をコンパイルする設計",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/meru2002/n/ndceba4619abe",
-      "title": "HerdrにはTerminal Codeがちょうどいい──AI・シェル・VS Codeを1画面で扱う方法",
-      "processedAt": "2026-09-04T00:03:13.120Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/na426ff7e8e46",
-      "title": "一つ勝つと、次に挑める舞台が一気に変わる",
-      "processedAt": "2026-09-03T00:04:51.326Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n0e982fa93e6d",
-      "title": "【デザインシステム】自社の型は、公開事例から決まる〜日本12組織の参考URL集〜",
-      "processedAt": "2026-09-03T00:04:51.326Z"
     }
   ]
 }
