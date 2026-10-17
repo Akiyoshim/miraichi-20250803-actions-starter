@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "url": "https://note.com/takapon/n/n4d1a8176b731",
+      "title": "別府の魅力度が急上昇！　街を沸かせた温泉以外の仕掛け",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/soh_ainsight/n/n88e089d920e4",
+      "title": "Opus 5.5に長い作業を最後までやり切らせる——「明日また続きから」を用意するClaude Codeの7つの設定",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/soh_ainsight/n/n2052268e79bf",
+      "title": "Grok BotのLLMモデル切り替え解禁！Claude Opus 5.5自動選択の凄さを解説",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n0770dbbe6720",
+      "title": "DeepSeek「V4.1 Flash-1017」が登場したので試してみた！Opus 5級の仕事が桁違いに安い",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/mmmiyama/n/n3e650b57082a",
+      "title": "「作ったのに売れない」から抜け出す！買いたい人を先に集めて、発売日に売れる状態をつくる方法 ※動くサイト見本とキット付き",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nc8c1d4e45da0",
+      "title": "【ひな型付き】Claude Codeで自分専用AI秘書をつくる実践キット〜予定・メール・TODOをまとめるSkillsと設定手順〜",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n7fc17cbdca2c",
+      "title": "【まずは一回】Claude CodeでAI秘書を試そう〜予定・メール・TODOを「今日やること」へ〜",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nbd5d2ad78c55",
+      "title": "【10/23公開予定】私のnoteの作り方・届け方を、10章にまとめました",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/majin_108/n/n22f7ffa26497",
+      "title": "【革命】 まじん式Notebookスライド v1",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/konmari/n/n5208c63427c2",
+      "title": "告知画像づくり、もう少しラクにならない？いつものAcrobatにPDFを渡したらSNS画像が3案出てきた話",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/suh_sunaneko/n/na6a599fabc9c",
+      "title": "【PM研究所メンバーシップ限定】11月19日（木）オフ会開催のお知らせ！",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://note.com/cozy_auklet6005/n/n3f6bee3e7c72",
+      "title": "GASの画面、どこまでできる？ブラウザ機能32個を試したら、カメラも撮れた！",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/10/18/050000",
+      "title": " 10/13 以降のNotion ChangeLog の解説 : hkob の雑記録 (649)",
+      "processedAt": "2026-10-17T23:59:37.255Z"
+    },
+    {
       "url": "https://note.com/takapon/n/n3ceaf3a290be",
       "title": "『WAGYUMAFIA ULTRAラ王』を使った飲食店超えのハイレベルレシピ",
       "processedAt": "2026-10-17T00:20:39.780Z"
@@ -2434,71 +2499,6 @@
       "url": "https://note.com/tasty_dunlin998/n/n21321b169f21",
       "title": "曖昧な相談から、AI要件コンパイラ v1.0を組み立てる",
       "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://note.com/sunwood_ai_labs/n/ne477308ecbd0",
-      "title": "Codex・Claude Codeのスキルをまとめて共有。TencentのOSS『TeamAI CLI』を調べた",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://note.com/sunwood_ai_labs/n/n74660e75a85a",
-      "title": "GUI付きBotが作って試す！Grok BotのOSS版「OpenMausBot」",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://kensuu.com/n/n820e935e4532",
-      "title": "「キャラでやってるだけ」の人のほうが、先におかしくなりやすいのでは？という話",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://note.com/imp0820/n/na04d1216d499",
-      "title": "【GPT-6 Astraユースケース】Fableで納得できなかったアプリが、2時間でほぼ完璧に仕上がった話",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://note.com/shotovim/n/nf82801d8184a",
-      "title": "AIとの会話をナレッジに変える、4つのHooksの選び方",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/08/050000",
-      "title": " NotionRubyMapping の FileBaseBlock の共通基盤の見直し : hkob の雑記録 (609)",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://note.com/keivivo/n/n6fc19fa01e04",
-      "title": "「子どものサッカーのため」に親が自分を犠牲にする構造",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n60da2366a340",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n582d9ee74a54",
-      "title": "#48 何を守るのかが分かれば立ち位置が決まる",
-      "processedAt": "2026-09-08T00:14:03.645Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n886b187b6277",
-      "title": "「AGI到来か？」究極の能力拡張装置ChatGPT Astra",
-      "processedAt": "2026-09-06T23:47:52.292Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/n2ab1006596b6",
-      "title": "GPT-6 Astra 公式ガイドを読み解き解説します！ 前モデルから変わった癖と特徴とは？",
-      "processedAt": "2026-09-06T23:47:52.292Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n525f0bb19868",
-      "title": "【川合のnoteの歩き方】1,126本から、今日の3本を選ぶ〜知る・考える・行うで決める読む順番〜",
-      "processedAt": "2026-09-06T23:47:52.292Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nf4dd48a87b04",
-      "title": "【GPT-6 Astra】OpenAIが指示ファイルの監査を勧める理由〜賢いモデルほど、矛盾した一行でつまずく〜",
-      "processedAt": "2026-09-06T23:47:52.292Z"
     }
   ]
 }
