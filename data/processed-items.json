@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "url": "https://note.com/takapon/n/n5e3fbd55a458",
+      "title": "「泊まりたいホテルがない」から始まったホテル経営",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/nbdff631343f0",
+      "title": "主要LLM約20本をティア表で比べてみた！2026年10月はClaude Opus 5.5一択",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nce2b47d37221",
+      "title": "【これ1本でOK】賢い人のGrok Bot活用術（動画解説付き）",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n42092d1da031",
+      "title": "【コピペで使える】訴求別広告プロンプト12選〜作例・全文・選び方をまとめて〜",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n3826cd705c38",
+      "title": "売れる企画を考える前に。顧客の「迷い」を調べる6ステップとAIプロンプト",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/nc1c3dcf7d581",
+      "title": "Managed Agentsへ、業務契約をどう接続するか",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/sunwood_ai_labs/n/nea5e73f46ffb",
+      "title": "DeepSeek Harness（dsh）に Z.ai の GLM-5.3 をつないで動かした",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://kensuu.com/n/na7fb1b2e881f",
+      "title": "指示30分で、街歩き動画のサイトをAIに作ってもらった話",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/10/20/050000",
+      "title": " NotionRubyMapping の Query / Filter 系 第2回: Property の filter 生成共通処理 : hkob の雑記録 (651)",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n06a8aabbbda2",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n20d76e94e6dc",
+      "title": "#103 CBの高さの調節",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n6100e89e2b1b",
+      "title": "AIの時短を利益に変える、成果運用の条件",
+      "processedAt": "2026-10-20T01:05:10.941Z"
+    },
+    {
       "url": "https://note.com/takapon/n/n27b8870d49e3",
       "title": "食も酒も事業もクロスさせる『CROSS FM』の年記念パーティー",
       "processedAt": "2026-10-19T00:09:23.226Z"
@@ -2439,66 +2499,6 @@
       "url": "https://hkob.hatenablog.com/entry/2026/09/10/050000",
       "title": " NotionRubyMapping の URL・caption 系 Block 第1回: UrlCaptionBaseBlock 共通基盤の見直し : hkob の雑記録 (611)",
       "processedAt": "2026-09-10T00:06:32.219Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/nb8366ff43783",
-      "title": "BOB2026、本日開催！ フェスだから出会える音楽がある",
-      "processedAt": "2026-09-10T00:06:32.219Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/n7a3531976ae2",
-      "title": "今話題の激アツAIサブスク『Command Code GOAT』をこっそり解説！ OpenCode Goと何が違う？",
-      "processedAt": "2026-09-10T00:06:32.219Z"
-    },
-    {
-      "url": "https://note.com/mmmiyama/n/ndb990f74d4d0",
-      "title": "お手本がないなら先に作る！ChatGPTで画像LP、Codexで押せるHTMLまで【プロンプト＆Skill配布】",
-      "processedAt": "2026-09-10T00:06:32.219Z"
-    },
-    {
-      "url": "https://note.com/on_consul/n/nbdf362321aab",
-      "title": "「Claude＝画像生成できない」はもう古い？ 「Codex連携」や「MCP接続」で解決する3つの方法",
-      "processedAt": "2026-09-10T00:06:32.219Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/nbb0ca218c17f",
-      "title": "20年前に考えていた「巨大市場の次」が現実になってきた",
-      "processedAt": "2026-09-09T00:05:38.130Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/n916b073926a5",
-      "title": "最近話題のLLM、29モデルを格付けしてみた！能力ならFable 5.1、コスパ込みならAstraがGODでGLMやmuseも熱い！",
-      "processedAt": "2026-09-09T00:05:38.130Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nb3a06aef8025",
-      "title": "【速報】ChatGPT Images 2.5 完全解説",
-      "processedAt": "2026-09-09T00:05:38.130Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n7ebcadfbe20a",
-      "title": "AIが作った画面を見直す4つの基本〜Google Stitchで作って学ぶ〜",
-      "processedAt": "2026-09-09T00:05:38.130Z"
-    },
-    {
-      "url": "https://note.com/suh_sunaneko/n/n5b1a79a03375",
-      "title": "AI駆動PMパネルディスカッション",
-      "processedAt": "2026-09-09T00:05:38.130Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n4715ee0997a0",
-      "title": "画像プロンプトを、用途とモデルで組み替える",
-      "processedAt": "2026-09-09T00:05:38.130Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/09/050000",
-      "title": " NotionRubyMapping のファイル系 Block 第2回: 個別クラスの見直し : hkob の雑記録 (610)",
-      "processedAt": "2026-09-09T00:05:38.130Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n15eb9d8b0035",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-09-09T00:05:38.130Z"
     }
   ]
 }
