@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "url": "https://note.com/takapon/n/n3138c10f748b",
+      "title": "犯罪を減らすために我々ができること",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/ne798f5e348aa",
+      "title": "【0からわかる】Claude Codeのはじめ方〜会議メモ1枚から、最初の仕事を任せよう〜",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n324878300768",
+      "title": "【迷わず学べる】noteをeラーニング教材のように使う「KAWAI BOOKS」のご案内",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/akira_papa_ai/n/n4e4d20dc2991",
+      "title": "Claude Code／Codexの「現場の型」 フォルダ設計・入れるスキル・1行の指示・Effortの決め方",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/akira_papa_ai/n/n16bd75e45fcc",
+      "title": "PHPの重大な脆弱性、何が問題？ 放置するとどうなる？ 原因と対策を7枚の図でやさしく整理",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/nf1f0382bf4a5",
+      "title": "AIは迷いを工業化した",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n61c2aad4107c",
+      "title": "AIの完了報告を、業務上の完了として受け入れる条件",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/on_consul/n/n135a1dae4bb6",
+      "title": "【動画編集ソフトなし】Claudeに指示するだけで、プロ並みの商品PVが作れた：Higgsfield Katanaを試してみた",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/10/22/050000",
+      "title": " NotionRubyMapping のAPI Reference 同期説明の個別化 第1回: FormulaProperty : hkob の雑記録 (653)",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/keivivo/n/nc2429499c5e8",
+      "title": "【指導者インタビュー】 「サッカーは好き。でも、評価され続けるのはつらい」——続けられる場所は、子どもの声から形になった【前編】",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n07b02fcf6e8b",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n3149b24bcad6",
+      "title": "AIを使う人だけが速くなる。制作チーム全体に広げるために決めたい5つのこと",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
+      "url": "https://note.com/akira_papa_ai/n/n5fb8091f0bfb",
+      "title": "AIで速くなったのに、なぜ「成長した気」がしないのか——AI時代の評価と、自分の物差しの話",
+      "processedAt": "2026-10-22T00:38:17.901Z"
+    },
+    {
       "url": "https://note.com/takapon/n/n08945ff05b5b",
       "title": "期待は裏切らず、予想は裏切る",
       "processedAt": "2026-10-21T00:34:11.388Z"
@@ -2434,71 +2499,6 @@
       "url": "https://note.com/tasty_dunlin998/n/nef5aa88bbe75",
       "title": "AIが書いたテストで、AIの修正を合格にしてよいか｜ExecCritic",
       "processedAt": "2026-09-12T00:08:46.377Z"
-    },
-    {
-      "url": "https://note.com/majin_108/n/n6d1ea8277de2",
-      "title": "【マジクラ】 Canvasって「切り離せる」の知ってた？ Geminiだけで作る\"自分専用サイドパネル\" 【Gem配布】",
-      "processedAt": "2026-09-12T00:08:46.377Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/08/29/050000",
-      "title": " 8/22から8/28までの Notion のアップデート : hkob の雑記録 (599)",
-      "processedAt": "2026-09-12T00:08:46.377Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n07b2c6248a0e",
-      "title": "大きな設備ではなく、アイディアで課題を解決する",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n6ff57b230537",
-      "title": "知る・考える・行うで、仕事を前に進める方法",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/cozy_auklet6005/n/nc3652596429e",
-      "title": "Xで流れてきたUIを4つ再現して、全部「見本帳」に変えました",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/11/050000",
-      "title": " NotionRubyMapping の URL 系 Block 第2回: UrlBaseBlock / LinkPreviewBlock の見直し : hkob の雑記録 (612)",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/nfe2fbd12ff0c",
-      "title": "#7 成功した方法が、成長を止める",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/nb38d3cc13235",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n55ed2c6fd0a6",
-      "title": "#6 パーソナルアナリストは、選手とどう関わるのか",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n46d144d72872",
-      "title": "#88 「深さ」ではなく、「高さを上げる」",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n056c37f950cb",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/on_consul/n/nebb66add43f3",
-      "title": "【4日間99円】「父と7歳娘のマイクラコマンド実践記 vol.1 はじめてのコマンド編」発売！親子でゲームしながら、AI時代のITスキルの入り口に。",
-      "processedAt": "2026-09-11T00:03:34.280Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/nbfc54684b1d6",
-      "title": "ObservationとEvidence｜証跡基盤は、ログ置き場ではない",
-      "processedAt": "2026-09-11T00:03:34.280Z"
     }
   ]
 }
