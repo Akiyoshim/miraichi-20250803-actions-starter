@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "url": "https://note.com/mmmiyama/n/na2681b65416b",
+      "title": "トークン溶かしてわかった！Claude Codeの逆襲でリードするためのGrok Bot解説",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nebf694235ba4",
+      "title": "最初のマネタイズはnoteから〜仕事の経験を「最初の商品」にする方法〜",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/n965a269bc855",
+      "title": "健康寿命を延ばすための、体との付き合い方",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n4f741c3a2df7",
+      "title": "AI臭を防ぐための UI スキル『unslop』が登場したので実際に試してみた！細部までこだわった進化をするSkillでした",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n82fe5d843755",
+      "title": "【動画アーカイブ有】GrokBOT実践活用例の勉強会！ 今熱い設計や自作タスク管理ツールまで共有します",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nb095208ca9bb",
+      "title": "商品の説明で終わらせない、オファー設計の実践シート",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/na83672f522bb",
+      "title": "AIを使っているのに、将来が不安なデザイナーへ",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/majin_108/n/n7bf1e8d79553",
+      "title": "AIが、書いた日記を絵日記に。Googleだけで動く無料アプリ配布【Notebook Diary】",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n2d110b51fe0b",
+      "title": "AIを入れたら、どの手順をやめてよいのか",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/sunwood_ai_labs/n/n06dbd73e0a96",
+      "title": "AIエージェントが自分で道具を選んで、家のCFDまでやりきった｜FreeCAD・CfdOF・OpenFOAM・ParaView",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/sunwood_ai_labs/n/n528999163e37",
+      "title": "unslopで家計簿アプリを4案作ったら、チェックは通るのに「ごちゃつく」画面ができた",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/sunwood_ai_labs/n/n2f900a597455",
+      "title": "T3 Code (Nightly) に好きな壁紙を敷く。サイドバーはすりガラスにして、アプリは書き換えない",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/cozy_auklet6005/n/n30ab5ed92e7c",
+      "title": "動画スキル17本大公開！Claude Codeに頼むだけ",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://note.com/imp0820/n/nb7dc436a294e",
+      "title": "Canva x ClaudeCodeが最強のプレゼン資料作成ツールだった。",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/11/03/050000",
+      "title": " NotionRubyMapping の RichTextProperty 値操作の API Reference 照合 : hkob の雑記録 (665)",
+      "processedAt": "2026-11-03T03:29:40.504Z"
+    },
+    {
       "url": "https://note.com/takapon/n/n9d7bc2d52e7f",
       "title": "《876》堀江貴文のブログでは言えない話【AIブームで勝ち残る企業と、消える企業の違い】",
       "processedAt": "2026-11-02T01:30:17.216Z"
@@ -2424,81 +2499,6 @@
       "url": "https://note.com/masa_wunder/n/nde9889b4867c",
       "title": "SpaceXAI「Grok 4.7」が登場したので実際に使ってみた！コスパ版Fableと噂の実力は・・・？",
       "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nd2162436e7f3",
-      "title": "AIで作った資料の確認が終わらない〜チームで決める「仕事の完了条件」〜",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n72b7459b4036",
-      "title": "タイトルデザインの5つのコツ〜AI画像生成に使える102種類の見本・プロンプト付き〜（ノウハウ部分は無料）",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/akira_papa_ai/n/n6e1362c9085b",
-      "title": "【AI開発・実演編】Cursor × Devin × Jev｜声でAIに仕事を振り、iOSアプリに「意味で探す」を組み込む2時間",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/on_consul/n/n00ba4a736afb",
-      "title": "【データ分析→次の「打ち手」に】GPT-6が分析からライバル分析、動画広告まで一気通貫|Higgsfield Plugin実演",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://kensuu.com/n/ne17db2eb8fd1",
-      "title": "AI企業の売り上げって本当に上がるのか？問題について",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/23/050000",
-      "title": " NotionRubyMapping の構造系 Block 第4回: LinkToPageBlock の見直し : hkob の雑記録 (624)",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/keivivo/n/n724a1370d6a7",
-      "title": "「一人で試合を決められる選手になりたい」——町田で見た、トップへ行く選手の基準【後編】",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/nb0363c611c18",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nae73ec1bd79b",
-      "title": "【最新研究】AIの採点が「まあ良い」に寄るのを防ぐ方法〜直近50件の分布で崩壊を見つける〜",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n35fc067c4a10",
-      "title": "158億円突破の映画「ちいかわ」には何があるのか",
-      "processedAt": "2026-09-22T00:45:53.784Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n613d388238c9",
-      "title": "《870》堀江貴文のブログでは言えない話【AIの指数関数的進化のなかで価値を生み出すには】",
-      "processedAt": "2026-09-22T00:45:53.784Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/nd29a7e2bc04b",
-      "title": "ローカルでもここまで出来る『Qwen-Image-2.1』 を動かしてみた！ 編集や透過も可能で質も高い画像AI",
-      "processedAt": "2026-09-22T00:45:53.784Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n1fbdc99ef8fd",
-      "title": "【保存版】AIでWebサイトを作る全手順〜プロンプト・デザインの見方・修正指示を、具体例で解説〜",
-      "processedAt": "2026-09-22T00:45:53.784Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nf9e1deb14035",
-      "title": "「あなたがいい」と言われる方法〜AIで強みを見つけ、ブランドをつくる〜",
-      "processedAt": "2026-09-22T00:45:53.784Z"
-    },
-    {
-      "url": "https://note.com/suh_sunaneko/n/n682737b82821",
-      "title": "PMのJev活用",
-      "processedAt": "2026-09-22T00:45:53.784Z"
     }
   ]
 }
