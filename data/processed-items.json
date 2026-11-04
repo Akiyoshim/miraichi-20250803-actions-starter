@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "url": "https://note.com/takapon/n/n1a2b6d16eefb",
+      "title": "3Dプリンタを購入した、いまだからこその理由",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n9de7ed27f94e",
+      "title": "AIエージェント向け『図解スキル』 7つを同じお題で比べてみた！ 使い分け前提で、それぞれの特徴を解説",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nd996c86fef82",
+      "title": "【実例・プロンプト付き】AIでLPをつくる全工程〜目的設定からデザイン・公開まで〜",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n5353fab903c6",
+      "title": "停止したはずなのに、書き込まれる――AIハーネスの3つの反例",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/on_consul/n/ncd1afa9b6b7a",
+      "title": "🎧超リアル音声AI「Gemini TTS」で、自分専用読み上げアプリをiPhone×ChatGPTで作った話",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/11/04/050000",
+      "title": " TitleProperty 値操作の API Reference 照合 & API Reference 同期説明の個別化 第7回 : hkob の雑記録 (666)",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/keivivo/n/nc328844e6218",
+      "title": "「サッカーをしているのに、サッカーが楽しくない」——藤尾きららが4カ国を回って辿り着いた、たった一つの基準【後編】",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n5f0e05c5e744",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n8bedf4d9647a",
+      "title": "#13 寄せる ＋ 付いていく",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/ne016e31c5dcf",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/nebfe9f527922",
+      "title": "#110 背後へのロングボールにおける3つのスペース",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n04be40df076d",
+      "title": "【保存版】AIっぽいUIを直すスキル「unslop」を分解〜60のサインと9工程、そのまま使える数値〜",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/akira_papa_ai/n/n6e1362c9085b",
+      "title": "【AI開発・実演編】Cursor × Devin × Jev｜声でAIに仕事を振り、iOSアプリに「意味で探す」を組み込む2時間",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://kensuu.com/n/ne17db2eb8fd1",
+      "title": "AI企業の売り上げって本当に上がるのか？問題について",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
+      "url": "https://note.com/suh_sunaneko/n/n682737b82821",
+      "title": "PMのJev活用",
+      "processedAt": "2026-11-04T02:10:01.335Z"
+    },
+    {
       "url": "https://note.com/mmmiyama/n/na2681b65416b",
       "title": "トークン溶かしてわかった！Claude Codeの逆襲でリードするためのGrok Bot解説",
       "processedAt": "2026-11-03T03:29:40.504Z"
@@ -2424,81 +2499,6 @@
       "url": "https://note.com/masa_wunder/n/n110c9e426b01",
       "title": "Anthropic の『Claude Opus 5.5』が登場したので実際に試してみた！性能もマジで最高！コスパも大幅改善",
       "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nb916062a2dbd",
-      "title": "【保存版】セミナーサムネイルの作り方〜244事例で学ぶ、見本の選び方とAIへの頼み方〜",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nfb9e9d0d13c3",
-      "title": "【完全保存版】Codexでnote自動化完全解説〜1回の指示で本文・見出し画像・各章の図解を作るプロンプトとSkills〜",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/ne1ad895c3778",
-      "title": "【新登場】GPT-6 SolとLunaを仕事で使い分ける〜料金・性能・Astraとの違いを図解〜",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n538e133b3793",
-      "title": "【最新】図でわかるOpus 5.5徹底解説〜進化・性能・コスト・仕事での使い方〜",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n3c0db3c2bc1e",
-      "title": "休み明けに、AIと仕事の続きを始める",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/nd9f2a67caa90",
-      "title": "高性能AIでつくった手順を、低コストモデルへ渡せるか",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/24/050000",
-      "title": " GPT-6 Luna & Sol と Claude Opus 5.5 の自己紹介 : hkob の雑記録 (625)",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/keivivo/n/n6ec2e6f548cb",
-      "title": "誰でも入れる少年団からマリノスへ——Y.S.C.C.西田勇祐が語る、サッカーを好きにさせてくれたコーチの問いかけ【前編】",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/nc9ada5db1481",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n7151eb81c1d5",
-      "title": "#21 ボールを離したがる",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nc1c8ad5266b3",
-      "title": "デザインが、ビジネスマンの新しい教養になる理由〜AI時代の「伝え方4.0」と学習ロードマップ〜",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/nbdbe5e25ee7a",
-      "title": "AIで速くしても、時間をかけたい仕事がある",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n74e28ee15001",
-      "title": "海外セレブの目的地となった二箇所と共通点",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/n3e06a769a46e",
-      "title": "Xiaomi「MiMo-V2.6」が登場したので実際に試してみた！激安の Flash は音声も動画も読めるサブの本命",
-      "processedAt": "2026-09-23T00:19:36.781Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/nde9889b4867c",
-      "title": "SpaceXAI「Grok 4.7」が登場したので実際に使ってみた！コスパ版Fableと噂の実力は・・・？",
-      "processedAt": "2026-09-23T00:19:36.781Z"
     }
   ]
 }
