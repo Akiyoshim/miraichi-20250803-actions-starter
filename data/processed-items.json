@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "url": "https://note.com/kawaidesign/n/n037ba2022f97",
+      "title": "結局、AIってどう使うのが正解？〜元Cursorエンジニア・Lauren Tanに学ぶ、Grok Botへ仕事を任せる6つのコツ〜",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/majin_108/n/n986c26da0466",
+      "title": "【マジクラ】Excelをダブルクリック→Googleがアプリみたいに開く！「Drive Office」",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/akira_papa_ai/n/n831e6cde5bca",
+      "title": "激動のAI時代、エンジニアの生存戦略を考える｜インターネットを人間が使わなくなったら、仕事は残るのか",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n165fcd6fd7ed",
+      "title": "AIと認識ズレが起こる「すり合わせ問題」について解説！作る前に解像度高いシミュレーションがポイントへ",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n9791638f335e",
+      "title": "【保存版】AIスライドの「AI感」を消す30のテクニック〜生成前の指示から仕上げの点検まで〜",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n23d9ff4da833",
+      "title": "デザイン初心者がやりがちな「ダサく見える」エフェクトの使い方6選",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n9fd07d7e52c3",
+      "title": "AIで作った一枚を、暮らしのどこに置こうか",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/on_consul/n/nf64480eb869d",
+      "title": "【1か月レビュー】AIイヤホン「viaim OpenNote」：歩きながら喋るだけで「第二の脳」が育つ使い方",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/11/05/050000",
+      "title": " NotionRubyMapping の API Reference 同期説明の個別化 第8回: DateProperty : hkob の雑記録 (667)",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/na704fb945039",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/majin_108/n/n464fb6cabfe4",
+      "title": "会社のGeminiとChrome拡張で「自分専用エージェント」を作ってみた話──Gemini Sparkの再現実験と、配布を見送った全記録 【Majin Agent v2】",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/akira_papa_ai/n/neaaaaafe8675",
+      "title": "【Jev完全チートシート】AIに文章を書かせないという選択。TypeSafe AI「Jev」で実装する「AI時代のif文」を開発現場でも使えるようにまるっと解説",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
+      "url": "https://note.com/shotovim/n/nf82801d8184a",
+      "title": "AIとの会話をナレッジに変える、4つのHooksの選び方",
+      "processedAt": "2026-11-05T02:14:35.629Z"
+    },
+    {
       "url": "https://note.com/takapon/n/n1a2b6d16eefb",
       "title": "3Dプリンタを購入した、いまだからこその理由",
       "processedAt": "2026-11-04T02:10:01.335Z"
@@ -2434,71 +2499,6 @@
       "url": "https://note.com/masa_wunder/n/n9015ec9f81f1",
       "title": "Google「Gemini 3.8 Flash TTS」が登場したので試してみた！ 前世代から安くなり、とても人間らしく進化",
       "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n4bafd87f1c4c",
-      "title": "SACに参画しました。AIを「試す」から「仕事で使い続ける」へ",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n19354ae60336",
-      "title": "【速報】MetaのAI最新事情完全解説〜Muse・AIグラス・日本で使える時期まで〜",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n2ebbf985daba",
-      "title": "AIでサムネイルを作る前に決めたい、見出し・主役・レイアウト",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n7b0f333f5c31",
-      "title": "部署ごとの条件を、共通ルールを崩さず足す｜AI要件コンパイラのDomain Packs",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/on_consul/n/n605202a3f7c5",
-      "title": "Claude「Opus 5.5」vs「GPT-6 Astra」を実務で比較!研修動画もショート動画もOpus 5.5が一枚上手だった",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/shotovim/n/n7056940f0498",
-      "title": "いまのわたしのObsidian同期方法",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/25/050000",
-      "title": " NotionRubyMapping の構造系 Block 第5回: ChildPageBlock / ChildDatabaseBlock の見直し : hkob の雑記録 (626)",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/genai_topic/n/n97df6af40ab0",
-      "title": "Claude CodeからCodexへ乗り換えるべき？コスパ・神機能・移行の全貌",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n4e3bc7a99de3",
-      "title": "#49 クロス対応の後",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/20/050000",
-      "title": " 9/7 以降のNotion ChangeLog の解説  : hkob の雑記録 (621)",
-      "processedAt": "2026-09-25T00:28:55.941Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/ne2d5a09fa27f",
-      "title": "泊まれる鮨屋が生み出す、新しい旅のかたち",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/ned9446e491a8",
-      "title": "OpenAI の『GPT-6 Sol / Luna』が登場したので実際に試してみた！単価は前世代の半分で賢さは横ばい",
-      "processedAt": "2026-09-24T00:26:23.479Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/n110c9e426b01",
-      "title": "Anthropic の『Claude Opus 5.5』が登場したので実際に試してみた！性能もマジで最高！コスパも大幅改善",
-      "processedAt": "2026-09-24T00:26:23.479Z"
     }
   ]
 }
