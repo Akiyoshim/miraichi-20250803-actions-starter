@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "url": "https://note.com/kawaidesign/n/nb0811a6c02ae",
+      "title": "AIデザインの「なんか微妙」を直す方法｜表紙のBefore／Afterと、私が出した修正指示",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/nb61e5b20bce4",
+      "title": "トラブルを正解に、非効率を武器に",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/ne69fc482d3b5",
+      "title": "【Claude公式】AIを扱う上手さは『プロンプト』ではなく『マネジメント』へ！ あなたが今 向き合うべきことを解説",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n74fe80b24268",
+      "title": "AIに任せたあと、判断できる人は育つか",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
+      "url": "https://note.com/on_consul/n/n295754d28eb0",
+      "title": "🧭ChatGPTの「dots」とMetaの「Muse」を使ってみて、AI秘書から「AI首席補佐官」に変わったと感じた話",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
+      "url": "https://note.com/imp0820/n/nb897f799bad4",
+      "title": "個人アプリ開発で学んだセキュリティとデータベースの構築方法",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/11/10/050000",
+      "title": " Siri AI によるカレンダータスクの登録 : hkob の雑記録 (672)",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
+      "url": "https://note.com/keivivo/n/nb60f888967cf",
+      "title": "なぜ低学年のチームには、一番経験の浅いコーチが置かれるのか",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n89d8f46763ea",
+      "title": "#22 6/8番に前を向かせない時",
+      "processedAt": "2026-11-10T04:06:55.113Z"
+    },
+    {
       "url": "https://note.com/takapon/n/n1a5c3198162d",
       "title": "ハックされたテレビの裏で流れる「誰も見ていない広告」の正体",
       "processedAt": "2026-11-09T01:39:02.996Z"
@@ -2454,51 +2499,6 @@
       "url": "https://note.com/sunwood_ai_labs/n/nbce51e8dc365",
       "title": "「OpenBot」と呼ばれる複数のオープンソースプロジェクト",
       "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://kensuu.com/n/naa4e5a0587b0",
-      "title": "レスバトルの価値がなくなってきた時代に、何の知識を持っておくべきか？",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/imp0820/n/na9801341417e",
-      "title": "文章はLLM、判断はJev。Hermes Agent への活用法",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/30/050000",
-      "title": " NotionRubyMapping の Query / Filter 系 第1回: Query 共通基盤の見直し : hkob の雑記録 (631)",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/keivivo/n/n89e212d2bafc",
-      "title": "「友達が欲しくて、オーバーヘッドを覚えた」——豊嶋邑作の原点にあった、4歳の孤独【前編】",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n361fd41e4b56",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n5fc4570fb2b9",
-      "title": "#94 ライン間への対応〜なぜうまくいかなかったか〜",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/sunwood_ai_labs/n/n068867176146",
-      "title": "Cloudflare OS に Claude Code・Codex・Antigravity・Hermes を載せた ― OpenMausBot 方式で「エージェントを選べる OS」にした話",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n60bcc54658f9",
-      "title": "【第3弾】 noteサムネイルプロンプト事例集",
-      "processedAt": "2026-09-29T01:48:16.699Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n4367f98b6aec",
-      "title": "【図解48枚】AIデザインの直し方〜12テーマ・144の確認ポイントを一冊に〜",
-      "processedAt": "2026-09-29T01:48:16.699Z"
     }
   ]
 }
