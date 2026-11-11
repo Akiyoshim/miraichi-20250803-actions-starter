@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "url": "https://note.com/takapon/n/n57c88a7bd0d4",
+      "title": "200年前から始まっていた、名前を売るという戦略",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/nf5f881c1262b",
+      "title": "4.7億円を集めた16歳CEOに感じる危うさ",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n9f8c77a7e5f7",
+      "title": "Anthropic 公式ガイド「Prompting Claude Fable 5.2」を解説！",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n44188af84848",
+      "title": "遂に「Claude Fable 5.2 / Mythos 5.2」が登場！ Opus5.5も過去になる圧倒的性能へ",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/neb2b27460535",
+      "title": "【保存版】PDFの表紙を、音付き広告に育てる〜AIと作ったモック・サムネイル・12秒動画の制作フロー〜",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/suh_sunaneko/n/n7935766c10ce",
+      "title": "非エンジニアでもわかる 攻撃パターンから学ぶWebセキュリティ",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n6c53b2401833",
+      "title": "AIは経験を使って改善したのか",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/on_consul/n/n44f206c30221",
+      "title": "【12分で分かる】動画生成AIで、商品のPR動画をかんたんに作る方法：「Higgsfield」なら初回購入が最大50%オフ",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/11/11/050000",
+      "title": " NotionRubyMapping の API Reference 同期説明の個別化 第11回: SelectProperty: hkob の雑記録 (673)",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/keivivo/n/n07f0a2eab394",
+      "title": "選手が選ぶ側になってこそ、指導者は努力する——異色の指導者、吉永一明が問い直す、日本の育成【後編】",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n418700ea057c",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/nef10e3f77267",
+      "title": "伝統を守ることと、昔と同じやり方を続けることは別",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/n6b683d4df0ec",
+      "title": "ロシアがJTから奪い取った、日本の財産",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n851b80f98583",
+      "title": "【AI時代の職業図鑑】あなたの経験は、どの仕事に進化する？",
+      "processedAt": "2026-11-11T01:54:52.294Z"
+    },
+    {
       "url": "https://note.com/kawaidesign/n/nb0811a6c02ae",
       "title": "AIデザインの「なんか微妙」を直す方法｜表紙のBefore／Afterと、私が出した修正指示",
       "processedAt": "2026-11-10T04:06:55.113Z"
@@ -2429,76 +2499,6 @@
       "url": "https://note.com/kawaidesign/n/n3f8f925889e7",
       "title": "「毎日の\"またこれか\"をAIに任せる」ワークフロー型AIワークスペースKuse入門",
       "processedAt": "2026-10-01T01:15:43.717Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n78affcffd2ce",
-      "title": "ノンデザイナーがdotsを使うと、デザイン業務はどう変わるのか",
-      "processedAt": "2026-10-01T01:15:43.717Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/nd7a130f5c78e",
-      "title": "OpenAIがハーネスを商品化した。設計責任はどこへ移るのか",
-      "processedAt": "2026-10-01T01:15:43.717Z"
-    },
-    {
-      "url": "https://note.com/cozy_auklet6005/n/nf95d3d620812",
-      "title": "【質問回答】GeminiでGASを作る時は、会話を3つに分けています",
-      "processedAt": "2026-10-01T01:15:43.717Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/10/01/050000",
-      "title": " Claude Sonnet 5.5 が利用可能に : hkob の雑記録 (632)",
-      "processedAt": "2026-10-01T01:15:43.717Z"
-    },
-    {
-      "url": "https://note.com/keivivo/n/n9ce33aa649ae",
-      "title": "「つまらなくて上手くなるより、上手くならなくても楽しい方がいい」——緒方卓也が二つのスクールで見つけた、育成の答え【後編】",
-      "processedAt": "2026-10-01T01:15:43.717Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/09/29/050000",
-      "title": " データベースのプロパティアクセス権限 : hkob の雑記録 (630)",
-      "processedAt": "2026-10-01T01:15:43.717Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n4e06db658872",
-      "title": "OpenAI DevDay 2026まとめ",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n3c1b9a11b92f",
-      "title": "「圏外」がなくなる未来を近づけるSpaceX",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/nc4b72320c4f0",
-      "title": "Anthropic の『Sonnet 5.5』が登場したので実際に試してみた！Opus 5.5 並みの実力で単価は半分",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/ne9a72d3258e8",
-      "title": "【やさしく解説】OpenAI DevDay 2026で何が変わった？ AIに詳しくない人のための全発表ガイド",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/majin_108/n/na60ee877324d",
-      "title": "【Gemini】 Gemが11月17日に「スキル」へ。15時間調べ抜いたら、ツッコミどころだらけだった 【リポスト無料】",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/akira_papa_ai/n/n9e4a342cb87a",
-      "title": "【DevDay 2026解説】AIは「道具」から「同僚」になった？5つの発表を、仕事の変化でつなぐ",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n5437d535cf6f",
-      "title": "CompilerOps｜AI要件コンパイラを、変更・検証・公開・Rollbackまで運用する",
-      "processedAt": "2026-09-30T01:16:28.325Z"
-    },
-    {
-      "url": "https://note.com/sunwood_ai_labs/n/nbce51e8dc365",
-      "title": "「OpenBot」と呼ばれる複数のオープンソースプロジェクト",
-      "processedAt": "2026-09-30T01:16:28.325Z"
     }
   ]
 }
