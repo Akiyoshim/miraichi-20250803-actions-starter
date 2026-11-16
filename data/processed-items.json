@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "url": "https://note.com/takapon/n/n0941eb6cb9a0",
+      "title": "《878》堀江貴文のブログでは言えない話【フアン氏電撃辞任でAI業界に激震 株式市場はどうなる？】",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nb25bcd2a30fa",
+      "title": "AIを24時間働かせる方法〜世界の実践者に学ぶ「任せ方」と、川合の制作フロー〜",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/n86afc4927de9",
+      "title": "宇宙から届いた映像と　届かなかった完全回収",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/takapon/n/n0f85b94a8cda",
+      "title": "偶然の発見を、再現できる技術に変える",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n26cae5355754",
+      "title": "サム・アルトマンは、寝ている間にAIに何を任せたのか？ OpenAI dotsの使い方",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n86fff8870fb1",
+      "title": "MetaのAIエージェント「Muse」の使い方",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nea7738450cb3",
+      "title": "AIに同じミスをさせない設計｜月1.1万件の変更を届けたGrok Botチームの開発術",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n98620080fcea",
+      "title": "AIは書き直せない",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/11/16/050000",
+      "title": " いつかやるタスクの登録アクション(Siri AI) : hkob の雑記録 (678)",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n7b3dad64c7ea",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n9a7cccd5ff02",
+      "title": "#56 「寄せろ」と言う前に、「寄せる」を定義する",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/masa_wunder/n/n96cbb6bc85c9",
+      "title": "Claude Code「Projects」大型更新が登場したので試してみた！まとめ役が自分から進捗を報告",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/sunwood_ai_labs/n/nff28824012ee",
+      "title": "Podman と Quadlet による T3 Code の社内 Web 展開とマルチテナント分離",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/majin_108/n/n9440eb95c4cd",
+      "title": "【Gemini Notebook × GAS】「ログ保存して」と言うだけで覚えてくれる、記憶するノートブックの作り方",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
+      "url": "https://note.com/suh_sunaneko/n/na30e53890079",
+      "title": "ExcelのWBSを依存関係丸見えアップグレード",
+      "processedAt": "2026-11-16T01:51:01.586Z"
+    },
+    {
       "url": "https://note.com/takapon/n/n527170f33e75",
       "title": "おすし屋さんのポークたまごおにぎりが、池袋東武のデパ地下に進出！",
       "processedAt": "2026-11-15T01:47:58.735Z"
@@ -2424,81 +2499,6 @@
       "url": "https://note.com/on_consul/n/n9b6eef3aa930",
       "title": "🎙️【超リアル日本語AIボイス】自分の声で広告・講義動画・ショートも作れる「Eleven v4」！Higgsfieldで動画作成を一気に自動化する方法",
       "processedAt": "2026-10-07T01:27:32.445Z"
-    },
-    {
-      "url": "https://note.com/sunwood_ai_labs/n/n42a458ed6cf3",
-      "title": "T3 Codeで、Opusに3つのスレッドを作って並列に頼んでもらった",
-      "processedAt": "2026-10-07T01:27:32.445Z"
-    },
-    {
-      "url": "https://note.com/keivivo/n/n34af077554f8",
-      "title": "「勘違い」が、本当に能力を変えた——豊嶋邑作が柏レイソルで手にしたものと、失いかけたもの【中編】",
-      "processedAt": "2026-10-07T01:27:32.445Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/n327c70b6b450",
-      "title": "OpenAI「dots」とGrok Bot、Hermesを設計思想で比べてみた｜最初の1体はdotsで良さそう",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n109bea6322f2",
-      "title": "【見本とプロンプト付き】サムネイルのレイアウト16選〜伝えたい内容から選ぶ、AIへの配置指示〜",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nd81e270d2296",
-      "title": "【素材356点】資料に添えるイラストが見つかる「PETIT PIC」をつくりました",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n48097639b965",
-      "title": "【失敗談】Threadsが永久凍結に。私がAIに任せていた「ある作業」",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n3fc410569413",
-      "title": "【衝撃】無料でAdobeを置き換えられる？「Crafting Apps」の実力・安全性・Macへの導入手順",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/majin_108/n/n7b871319672e",
-      "title": "【マジクラ】Google Chatをダッシュボードにする仕組み【GAS】",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://kensuu.com/n/nfbfb2582dba0",
-      "title": "「嫌われる」ことを恐れ過ぎかも",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/imp0820/n/nf17249704d11",
-      "title": "撮り直しはもう古い。AI分身を作る方法",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/10/06/050000",
-      "title": " ミーティングノートから To Do を作成する worker の実装(1) : hkob の雑記録 (637)",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n280d80d90383",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/akira_papa_ai/n/n3c226b3d4f36",
-      "title": "パーソナルAIエージェント比較｜OpenClaw・Grok Bot・dots、自分の代わりに働き続けるAIはどれに任せる？",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/sunwood_ai_labs/n/n0e9c789d56c2",
-      "title": "AikidoのAltar-1は何か。GLM-5.3を328GBまで削った、自社内で動かす防御モデル",
-      "processedAt": "2026-10-06T02:14:25.473Z"
-    },
-    {
-      "url": "https://note.com/takapon/n/n837e6fb07cba",
-      "title": "《872》堀江貴文のブログでは言えない話【自動化が進むと「払われる場所」は変わる】",
-      "processedAt": "2026-10-05T00:44:24.721Z"
     }
   ]
 }
