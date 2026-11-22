@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "url": "https://note.com/takapon/n/n7495f8fd1c33",
+      "title": "2カ月で終わると聞いて、始めてみた結果",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/ncb22219948b2",
+      "title": "【最新調査】AIで買い物、どこまで任せる？〜「調べる・選ぶ・買う」で見る日本の現在地〜",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n629012aa19cf",
+      "title": "サッカーで考えるLPの設計方法〜広告から申し込みまで、パスがつながる構成を作る〜",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/nd1c948cd6ab1",
+      "title": "中学生でもわかるAPI入門〜ChatGPT・Claude・Geminiを「自分の鍵」でつなぐ〜",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/nea1a272a76e9",
+      "title": "AI要件コンパイラからAIハーネスへ｜一件往復を統合契約へ育てる",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/11/22/050000",
+      "title": " 11/16 以降のNotion ChangeLog の解説 : hkob の雑記録 (684)",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/n75e91cd525bf",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n272f7ad8bd6e",
+      "title": "【実録】AIで作った広告画像、シンプルにすればいい？私がリボンを残した理由",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n58f54745a4f5",
+      "title": "【速報】GPT-6.2 Astra・Solで何が変わった？資料づくりと仕事の任せ方をやさしく解説",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/kawaidesign/n/n1aa432a0a569",
+      "title": "【大公開】KAWAIのAI設計術〜12の仕事で、Codexにどこまで任せるか〜",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/n9ef121481578",
+      "title": "AIは本当に図表を読めないのか？――「AIに聞いたら、そう言っていた」の落とし穴",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/tasty_dunlin998/n/nc54e92b034d7",
+      "title": "AIの訂正は、プロンプトに書くな",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/on_consul/n/ne7ec999a2465",
+      "title": "【Claudeで動画広告を作る】「Higgsfield Shorts Studio」で、人気ショート動画の編集スタイルを使って商品PR動画をAI制作！",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://hkob.hatenablog.com/entry/2026/11/19/050000",
+      "title": " NotionRubyMapping の API Reference 同期説明の個別化 第15, 16, 17回: CheckboxProperty, LastEditedTimeProperty, CreatedTimeProperty : hkob の雑記録 (681)",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
+      "url": "https://note.com/devuelveme/n/nd199ccbc7652",
+      "title": "「戦術構造学 研究室」",
+      "processedAt": "2026-11-22T02:05:40.444Z"
+    },
+    {
       "url": "https://note.com/mmmiyama/n/n95f5b4a8ea8e",
       "title": "「AIのレイアウト、いつも同じ⋯」引き出しが少なくても構図を変えられるコピペ・プロンプト ※構図見本サイトつき",
       "processedAt": "2026-11-21T03:09:07.176Z"
@@ -2424,81 +2499,6 @@
       "url": "https://note.com/kawaidesign/n/n328e2643c26c",
       "title": "Geminiの更新、これで追いつく。公式情報を43テーマで整理",
       "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nf297d74925d1",
-      "title": "Claude・Claude Codeの更新を追い切れない人へ。主要40項目を公式情報で解説",
-      "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n4009a92a0a1c",
-      "title": "AI時代のADR――設計の「なぜ」を残す技術",
-      "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://note.com/cozy_auklet6005/n/n07a3f364b100",
-      "title": "Googleドライブのリンクを、人に配る形に一発変換する拡張",
-      "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://hkob.hatenablog.com/entry/2026/10/12/050000",
-      "title": " ミーティングノートから To Do を作成する worker の実装(5) : hkob の雑記録 (643)",
-      "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://note.com/keivivo/n/n8fc39afa891e",
-      "title": "「ボールは奪われない前提でサッカーができる」——豊嶋邑作が辿り着いた「後ろ理論」という答え【後編】",
-      "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n3c284c4f430a",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://note.com/sunwood_ai_labs/n/n290a78a2bd7a",
-      "title": "Filestash を Windows の Podman で動かし、SFTPサーバーのファイルをブラウザから操作できるか試した",
-      "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://note.com/devuelveme/n/n29f3b53666c1",
-      "title": "「戦術構造学 研究室」",
-      "processedAt": "2026-10-12T01:13:24.062Z"
-    },
-    {
-      "url": "https://note.com/masa_wunder/n/n5fcd5d072ce8",
-      "title": "Claude Maxに毎月のAPIクレジットが登場したので実際に使ってみた！クラウドで毎朝動く自動化が作れる",
-      "processedAt": "2026-10-11T00:51:40.596Z"
-    },
-    {
-      "url": "https://note.com/mmmiyama/n/n18c6187aceaa",
-      "title": "既存の声なら無料！動画で自分の声を毎回録らずに作るAIナレーション【声クローンキット付き】",
-      "processedAt": "2026-10-11T00:51:40.596Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n657edf52eb81",
-      "title": "【このサイトで商品案を磨く】32人の仮想顧客に聞く〜CUSTOMER × Codexで訴求と導線を考える〜（ノウハウパート全文無料）",
-      "processedAt": "2026-10-11T00:51:40.597Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nebf41c71becd",
-      "title": "【保存版】AIデザイン、どの記事から読む？〜画像・スライド・Webの学び方ガイド〜",
-      "processedAt": "2026-10-11T00:51:40.597Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/n1e5535e1180c",
-      "title": "きれいな広告なのに、なぜ売れない？ HARMで見直す「伝える中身」",
-      "processedAt": "2026-10-11T00:51:40.597Z"
-    },
-    {
-      "url": "https://note.com/kawaidesign/n/nb8aac19eaa91",
-      "title": "【10/15まで限定無料】AIサムネイルは「12の要素」で指示する〜作例とコピペ用プロンプトを公開〜",
-      "processedAt": "2026-10-11T00:51:40.597Z"
-    },
-    {
-      "url": "https://note.com/tasty_dunlin998/n/n5d4003ea0b3e",
-      "title": "別のAIへ仕事を渡す。会話ログではなく、再開できる束をつくる",
-      "processedAt": "2026-10-11T00:51:40.597Z"
     }
   ]
 }
